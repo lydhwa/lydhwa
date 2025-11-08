@@ -27,12 +27,4 @@
 ### 🌐 Site
 
 > 🏠 [**partynextdoor.xyz**](https://partynextdoor.xyz) [Not Working]
-
 ---
-
-
-
-<p align="center">
-  <i>✨ Thanks for visiting my profile! ✨</i><br/>
-  <img src="https://komarev.com/ghpvc/?username=lydhwa&label=Profile%20views&color=ff69b4&style=flat-square" alt="profile views"/>
-</p>
