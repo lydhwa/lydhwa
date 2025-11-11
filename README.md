@@ -20,7 +20,6 @@
 ### 📫 Contact
 
 > 📧 **Email** : `support@partynextdoor.xyz`  
-> 💬 **Discord** : `koenigsegg_.0`
 
 ---
 
